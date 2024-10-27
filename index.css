@@ -70,6 +70,9 @@ main {
 
 .info {
     flex: 1; /* Permite que o texto ocupe o espaço restante */
+    border: 2px solid yellow;
+    padding: 10px;
+    margin: 10px 0;
 }
 
 .detalhes-btn {
